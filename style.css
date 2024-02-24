@@ -1,0 +1,32 @@
+. main{
+    background-color: goldenrod;
+}
+.one > p{
+    font-size: small;
+}
+.one >  {
+    margin-top: 82px;
+}
+
+.week{
+    background-color: goldenrod;
+    height: 400px;
+}
+
+.two > img {
+    margin-top: 80px;
+    /* margin-top: 0px; */
+    /* margin-left: 397px; */
+    /* margin-bottom: -220px; */
+    /* background-color: transparent; */
+    margin-left: 408px;
+
+}
+
+.one{
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.container main {
+    text-align: center;
+}
